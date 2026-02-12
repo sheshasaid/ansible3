@@ -1,0 +1,40 @@
+<Students>
+<Student>
+    <Name>Sheshasai</Name>
+    <Dob>28-09-1992</Dob>
+    <Age>33</Age>
+    <Address type="Current">
+        <Doorno>502</Doorno>
+        <Street>KPHB</Street>
+        <City>HYD</City>
+        <Pin>500085</Pin>
+        <State>Telangana</State>
+    </Address>
+
+    <Skills>
+        <Skill1>DevOps</Skill1>
+        <Skill2>AWS</Skill2>
+        <Skill3>Cloud</Skill3>
+    </Skills>
+</Student>
+
+<Student>
+    <Name>Sheshasai</Name>
+    <Dob>28-09-1992</Dob>
+    <Age>33</Age>
+    <Address type="Permanent">
+        <Doorno>503</Doorno>
+        <Street>KPHB2</Street>
+        <City>HYD</City>
+        <Pin>505001</Pin>
+        <State>Telangana</State>
+    </Address>
+
+    <Skills>
+        <Skill1>DevOps</Skill1>
+        <Skill2>AWS</Skill2>
+        <Skill3>Cloud</Skill3>
+    </Skills>
+</Student>
+</Students>
+

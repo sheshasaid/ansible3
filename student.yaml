@@ -1,0 +1,20 @@
+- name: sheshasai
+  dob: 28-09-1992
+  age: 33
+  address:
+    "doorno": 502
+    "street": KPHB
+    "city": "HYD"
+    "state": "Telangana"
+
+    address:
+      "doorno": 501
+      "street": KPHB
+      "city": "HYD"
+      "state": "Telangana"
+  
+- skills:
+  - Java
+  - DevOps
+  - Cloud
+  

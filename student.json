@@ -1,0 +1,18 @@
+{
+    
+    "Student": "Sheshasai",
+    "Dob": "28-09-1992",
+    "Age": "33",
+    "Address": [
+        {
+            "Type": "Current",
+            "Doorno": "502",
+            "Street": "KPHB",
+            "City": "HYD",
+            "State": "Telangana"
+        }
+    ],
+
+    "Skills": ["DevOps","Cloud","AWS"]
+    
+}
