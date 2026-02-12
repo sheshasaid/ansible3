@@ -1,4 +1,4 @@
-- name: vars from inventory
+- name: vars from files
   hosts: local
   connection: local
   tasks:
