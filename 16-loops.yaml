@@ -10,4 +10,4 @@
       loop:
       - nginx
       - mysql
-      - zip
+      - zip 
