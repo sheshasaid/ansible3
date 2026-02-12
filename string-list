@@ -1,0 +1,10 @@
+- name: string to list
+  hosts: local
+  connection: local
+  become: yes
+  vars:
+    Technologies are: DevOps, Linux, Shell, ansible
+  tasks:
+  - name: default variable
+    ansible.builtin.debug:
+      msg: "Hello, {{ name | default ('sai')}}"
