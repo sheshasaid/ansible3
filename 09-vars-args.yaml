@@ -1,0 +1,7 @@
+- name: variable from arguments
+  hosts: local
+  connection: local
+  vars_args:
+    - name: print the variable arguments
+      ansible.builtin.debug:
+        msg: "Course name is: {{ COURSE }}, Duration: {{ DURATION }}, Trainer: {{ Trainer }}"
